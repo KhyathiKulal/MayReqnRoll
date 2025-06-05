@@ -1,0 +1,266 @@
+{
+  "uuid": "d1b55232-0864-4298-a790-0f30dcad01df",
+  "historyId": "74873334fdee8c2406694ecadacbe254",
+  "testCaseId": "2d92b0ef7649fc8247b2ef8662a77b68",
+  "fullName": "ReqnrollProject/Features/SeleniumRegistration/Verify student registration with valid details",
+  "labels": [
+    {
+      "name": "host",
+      "value": "AUTO2L12JD8XY9P"
+    },
+    {
+      "name": "thread",
+      "value": "ParallelWorker#2"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "Reqnroll"
+    },
+    {
+      "name": "package",
+      "value": "Features.SeleniumRegistration"
+    },
+    {
+      "name": "feature",
+      "value": "SeleniumRegistration"
+    }
+  ],
+  "links": [],
+  "name": "Verify student registration with valid details",
+  "status": "broken",
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given User is on the registration page",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418321,
+      "stop": 1749106418438
+    },
+    {
+      "name": "Given User enters firstname \"John\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418441,
+      "stop": 1749106418458
+    },
+    {
+      "name": "Given User enters email \"john.doe@example.com\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418458,
+      "stop": 1749106418464
+    },
+    {
+      "name": "Given User selects gender \"Male\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418465,
+      "stop": 1749106418490
+    },
+    {
+      "name": "Given User enters mobile number \"9876543210\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418490,
+      "stop": 1749106418496
+    },
+    {
+      "name": "Given User selects date of birth \"15-03-2000\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418496,
+      "stop": 1749106418502
+    },
+    {
+      "name": "Given User enters subjects \"Mathematics, Physics\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418502,
+      "stop": 1749106418506
+    },
+    {
+      "name": "Given User selects hobbies \"Reading, Music\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418506,
+      "stop": 1749106418510
+    },
+    {
+      "name": "Given User selects picture \"C:\\Users\\hitka\\Downloads\\sampleFile.jpeg\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418511,
+      "stop": 1749106418515
+    },
+    {
+      "name": "Given User enters current address \"123 Main Street, Mangalore\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418515,
+      "stop": 1749106418520
+    },
+    {
+      "name": "Given User selects state \"NCR\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418520,
+      "stop": 1749106418525
+    },
+    {
+      "name": "Given User selects city \"Lucknow\"",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418525,
+      "stop": 1749106418530
+    },
+    {
+      "name": "Given User clicks on submit button in the registration form",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418530,
+      "stop": 1749106418539
+    },
+    {
+      "name": "Then Registration is successful",
+      "status": "broken",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "No matching definition found for this step."
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1749106418539,
+      "stop": 1749106418558
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1749106418319,
+  "stop": 1749106418629
+}
